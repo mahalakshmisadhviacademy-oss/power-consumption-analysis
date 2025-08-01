@@ -6,4 +6,4 @@ This project explores electricity consumption and billing using Power BI.
 
 ## 📊 Dashboard Preview
 
-![Power BI Dashboard](https://github.com/mahalakshmisadhviacademy-oss/power-consumption-analysis/blob/main/Screenshot 2025-08-01 141353.png)
+![Power BI Dashboard](https://github.com/mahalakshmisadhviacademy-oss/power-consumption-analysis/blob/main/Dashbord.png)
